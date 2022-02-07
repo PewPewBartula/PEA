@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PEA_Projekt2", "PEA_Projekt2.vcxproj", "{390257E4-C098-4364-890E-92EBE0348429}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{390257E4-C098-4364-890E-92EBE0348429}.Debug|x64.ActiveCfg = Debug|x64
+		{390257E4-C098-4364-890E-92EBE0348429}.Debug|x64.Build.0 = Debug|x64
+		{390257E4-C098-4364-890E-92EBE0348429}.Debug|x86.ActiveCfg = Debug|Win32
+		{390257E4-C098-4364-890E-92EBE0348429}.Debug|x86.Build.0 = Debug|Win32
+		{390257E4-C098-4364-890E-92EBE0348429}.Release|x64.ActiveCfg = Release|x64
+		{390257E4-C098-4364-890E-92EBE0348429}.Release|x64.Build.0 = Release|x64
+		{390257E4-C098-4364-890E-92EBE0348429}.Release|x86.ActiveCfg = Release|Win32
+		{390257E4-C098-4364-890E-92EBE0348429}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D36682C6-4C08-4D68-BD63-F4133F0D7D66}
+	EndGlobalSection
+EndGlobal
