@@ -1,0 +1,7 @@
+﻿  Towns.cpp
+C:\Users\kuba1\Desktop\Studia\V semestr\PEA\Projekt\Etap 3\PEA_P3\Towns.cpp(13,23): warning C4305: "=": obcięcie z "double" do "float"
+C:\Users\kuba1\Desktop\Studia\V semestr\PEA\Projekt\Etap 3\PEA_P3\Towns.cpp(14,23): warning C4305: "=": obcięcie z "double" do "float"
+C:\Users\kuba1\Desktop\Studia\V semestr\PEA\Projekt\Etap 3\PEA_P3\Towns.cpp(115,13): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\kuba1\Desktop\Studia\V semestr\PEA\Projekt\Etap 3\PEA_P3\Towns.cpp(145,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\kuba1\Desktop\Studia\V semestr\PEA\Projekt\Etap 3\PEA_P3\Towns.cpp(181,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  PEA_P3.vcxproj -> C:\Users\kuba1\Desktop\Studia\V semestr\PEA\Projekt\Etap 3\PEA_P3\Debug\PEA_P3.exe
